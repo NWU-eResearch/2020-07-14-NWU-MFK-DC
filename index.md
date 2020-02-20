@@ -195,7 +195,7 @@ Display the contact email address set in the configuration file.
   {% endif %}
   for more information.
 </p>
-
+<p><strong>Registration:</strong>Please register by completing this form 	<a href="https://forms.gle/WLDNCLcjwg5ZwNjz8">Application Form</a>. Successful candidates will be contacted via email. </p>
 <hr/>
 
 {% comment%}
